@@ -1,6 +1,6 @@
 beautifulsoup4
 jupyter
 matplotlib
+openpyxl
 pandas
 requests
-xlrd
